@@ -1,0 +1,17 @@
+{
+    "name": "maulo/derspanier",
+    "description": "Tienda Bernardo",
+    "autoload": {
+        "psr-4": {
+            "Maulo\\Derspanier\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Renzo Mendoza"
+        }
+    ],
+    "require-dev": {
+        "heroku/heroku-buildpack-php": "^218.0"
+    }
+}
