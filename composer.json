@@ -11,7 +11,7 @@
             "name": "Renzo Mendoza"
         }
     ],
-    "require-dev": {
-        "heroku/heroku-buildpack-php": "^218.0"
+    "require": {
+        "vlucas/phpdotenv": "^5.5"
     }
 }
